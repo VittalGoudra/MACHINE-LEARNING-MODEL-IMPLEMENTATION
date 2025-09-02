@@ -9,3 +9,5 @@ BATCH - AG14
 
 #OUTPUT
 
+<img width="854" height="499" alt="Image" src="https://github.com/user-attachments/assets/59fd1eac-dc7c-4353-bd4a-ffa51a5899a8" />
+
